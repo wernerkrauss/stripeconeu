@@ -1,6 +1,6 @@
-## Topics:
+# Topics:
 
-### CSS:
+## CSS:
 * css
 * scss
 * minify
@@ -8,7 +8,7 @@
 * critical css
 * autoprefix  
 
-### JS:
+## JS:
 * babel
 * uglify
 * eslint
@@ -20,7 +20,7 @@
 * image optim task
 * favicon task
 
-### Tasks:
+## Tasks:
 * live Task
 * watch Task(dev Task)
 * live reload

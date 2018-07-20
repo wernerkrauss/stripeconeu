@@ -17,7 +17,9 @@
 * Font loader
 
 ## Image:
+* image loader
 * image optim task
+* tinypng task
 * favicon task
 
 ## Tasks:
@@ -25,6 +27,9 @@
 * watch Task(dev Task)
 * live reload
 
+## Loaders:
+* silverstripe-template-loader
+ 
 ## Links:
 
 [webpack-when-to-use-and-why](https://blog.andrewray.me/webpack-when-to-use-and-why/)

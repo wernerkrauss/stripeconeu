@@ -29,6 +29,7 @@
 
 ## Loaders:
 * silverstripe-template-loader
+* vue loader
  
 ## Links:
 

@@ -32,3 +32,5 @@
 [webpack-book](https://github.com/survivejs/webpack-book)
 
 [webpack-docs](https://webpack.js.org/)
+
+[silverstripe-template-loader](https://github.com/Tom-Alexander/silverstripe-template-loader)
